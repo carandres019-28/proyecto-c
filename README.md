@@ -5,6 +5,6 @@
 *azul
  # chequeo
 
- -[x] peras 
- -[x] manzanas
- -[x] queso
+- [x] peras 
+- [x] manzanas
+- [x] queso
