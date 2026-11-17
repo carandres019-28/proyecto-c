@@ -14,6 +14,7 @@ obiOwen Kenobi dijo:
 # crear una tabla
 
 A | B | A XOR B
+--|---|--------
 V | V | F
 V | F | V
 F | V | V
