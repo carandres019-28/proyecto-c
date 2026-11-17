@@ -18,3 +18,6 @@ A | B | A XOR B
 V | V | F
 V | F | V
 F | V | V
+
+# EMOJIS
+:+1: 🐫🤘😁 💩
