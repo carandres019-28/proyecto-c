@@ -21,3 +21,8 @@ F | V | V
 
 # EMOJIS
 :+1: 🐫🤘😁 💩
+
+# UN PEDACITO DE CODIGO 
+```python
+print('hola mundo en git hub')
+
